@@ -1,5 +1,4 @@
-- mfdev.com.br
-- (https://www.mfdev.com.br/logo.svg)
+- [mfdev.com.br](https://www.mfdev.com.br)
 
 <!---
 mfdevsistemas/mfdevsistemas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
